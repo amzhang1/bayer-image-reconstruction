@@ -1,1 +1,1 @@
-The objective of this program is to reconstruct a colored image off of a grayscale image using a Bayer technique
+The objective of this program is to reconstruct a RGB image with using a simple grayscale image using a Bayer filter pattern 
